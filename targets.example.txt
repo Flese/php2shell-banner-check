@@ -1,0 +1,4 @@
+# EXAMPLES: replace with systems you own or have explicit permission to assess.
+# No active targets are included.
+# app.example.com
+# https://app.example.com/known-route.php
